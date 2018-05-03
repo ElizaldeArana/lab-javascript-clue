@@ -1,4 +1,4 @@
-// Characters
+var Characters;
 /*
 mrGreen
 first_name:   Jacob
